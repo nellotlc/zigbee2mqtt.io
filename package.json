@@ -20,7 +20,7 @@
     "dependencies": {
         "@quasar/extras": "1.16.12",
         "core-js": "3.39.0",
-        "quasar": "2.17.1"
+        "quasar": "2.17.2"
     },
     "devDependencies": {
         "@types/node": "22.8.6",
